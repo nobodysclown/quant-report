@@ -1,0 +1,1114 @@
+{
+ "asof": "2026-10-05",
+ "regime": {
+  "asof": "2026-10-02",
+  "spy": 769.64,
+  "spy_ma200": 717.04,
+  "risk_on": true,
+  "vix": 15.3,
+  "pct_above_200ma": 45.7,
+  "spy_adx": 9.6,
+  "spy_pctB": 0.743,
+  "dip_buy_ok": true,
+  "regime": "中性",
+  "favored": "六策略均衡"
+ },
+ "meta": {
+  "scanned": 150,
+  "signals": 38,
+  "jev_calls": 30
+ },
+ "breaker_banner": null,
+ "halted": false,
+ "live_account": {
+  "asof": "2026-10-05 20:34",
+  "net_liquidation": 20697.08,
+  "cash": 768.51,
+  "securities_value": 19928.41,
+  "floating_pnl": -634.0,
+  "count": 17,
+  "positions": [
+   {
+    "symbol": "RKLB",
+    "qty": 11.0,
+    "avg": 117.83,
+    "price": 73.59,
+    "pnl": -487.0,
+    "pnl_pct": -37.5
+   },
+   {
+    "symbol": "RVI",
+    "qty": 15.0,
+    "avg": 50.35,
+    "price": 27.28,
+    "pnl": -346.0,
+    "pnl_pct": -45.8
+   },
+   {
+    "symbol": "TSLA",
+    "qty": 6.0,
+    "avg": 412.96,
+    "price": 367.9,
+    "pnl": -270.0,
+    "pnl_pct": -10.9
+   },
+   {
+    "symbol": "NOK",
+    "qty": 50.0,
+    "avg": 15.76,
+    "price": 10.44,
+    "pnl": -266.0,
+    "pnl_pct": -33.8
+   },
+   {
+    "symbol": "GOOG",
+    "qty": 8.0,
+    "avg": 363.2,
+    "price": 339.69,
+    "pnl": -188.0,
+    "pnl_pct": -6.5
+   },
+   {
+    "symbol": "CRCL",
+    "qty": 14.0,
+    "avg": 94.94,
+    "price": 83.21,
+    "pnl": -164.0,
+    "pnl_pct": -12.4
+   },
+   {
+    "symbol": "XLU",
+    "qty": 20.0,
+    "avg": 45.0,
+    "price": 39.98,
+    "pnl": -100.0,
+    "pnl_pct": -11.2
+   },
+   {
+    "symbol": "GEV",
+    "qty": 2.0,
+    "avg": 1008.67,
+    "price": 987.01,
+    "pnl": -43.0,
+    "pnl_pct": -2.1
+   },
+   {
+    "symbol": "ORCL",
+    "qty": 5.0,
+    "avg": 149.6,
+    "price": 142.39,
+    "pnl": -36.0,
+    "pnl_pct": -4.8
+   },
+   {
+    "symbol": "SOFI",
+    "qty": 70.0,
+    "avg": 15.93,
+    "price": 15.73,
+    "pnl": -14.0,
+    "pnl_pct": -1.2
+   },
+   {
+    "symbol": "ONDS",
+    "qty": 55.0,
+    "avg": 7.78,
+    "price": 7.52,
+    "pnl": -14.0,
+    "pnl_pct": -3.3
+   },
+   {
+    "symbol": "PLAB",
+    "qty": 25.0,
+    "avg": 30.57,
+    "price": 31.0,
+    "pnl": 11.0,
+    "pnl_pct": 1.4
+   },
+   {
+    "symbol": "NU",
+    "qty": 30.0,
+    "avg": 13.63,
+    "price": 15.09,
+    "pnl": 44.0,
+    "pnl_pct": 10.7
+   },
+   {
+    "symbol": "SMCI",
+    "qty": 20.0,
+    "avg": 32.55,
+    "price": 43.5,
+    "pnl": 219.0,
+    "pnl_pct": 33.6
+   },
+   {
+    "symbol": "EWY",
+    "qty": 6.0,
+    "avg": 154.07,
+    "price": 191.23,
+    "pnl": 223.0,
+    "pnl_pct": 24.1
+   },
+   {
+    "symbol": "PLTR",
+    "qty": 7.0,
+    "avg": 135.53,
+    "price": 189.02,
+    "pnl": 374.0,
+    "pnl_pct": 39.5
+   },
+   {
+    "symbol": "AMD",
+    "qty": 4.0,
+    "avg": 522.02,
+    "price": 627.92,
+    "pnl": 424.0,
+    "pnl_pct": 20.3
+   }
+  ]
+ },
+ "live_advice": {
+  "sells": [
+   {
+    "symbol": "RKLB",
+    "qty": 11.0,
+    "avg": 117.83,
+    "price": 73.92,
+    "pnl": -89.0,
+    "pnl_pct": -6.9,
+    "reason": "止损",
+    "dev": 0.3263
+   },
+   {
+    "symbol": "TSLA",
+    "qty": 6.0,
+    "avg": 412.96,
+    "price": 370.59,
+    "pnl": -149.0,
+    "pnl_pct": -6.0,
+    "reason": "止损",
+    "dev": 0.0451
+   },
+   {
+    "symbol": "NOK",
+    "qty": 50.0,
+    "avg": 15.76,
+    "price": 10.6,
+    "pnl": -46.0,
+    "pnl_pct": -5.8,
+    "reason": "止损",
+    "dev": 0.2859
+   },
+   {
+    "symbol": "GOOG",
+    "qty": 8.0,
+    "avg": 363.2,
+    "price": 340.35,
+    "pnl": -141.0,
+    "pnl_pct": -4.8,
+    "reason": "止损",
+    "dev": 0.0152
+   },
+   {
+    "symbol": "CRCL",
+    "qty": 14.0,
+    "avg": 94.94,
+    "price": 81.25,
+    "pnl": -172.0,
+    "pnl_pct": -12.9,
+    "reason": "止损",
+    "dev": 0.0173
+   },
+   {
+    "symbol": "XLU",
+    "qty": 20.0,
+    "avg": 45.0,
+    "price": 39.83,
+    "pnl": -24.0,
+    "pnl_pct": -2.6,
+    "reason": "止损",
+    "dev": 0.0911
+   },
+   {
+    "symbol": "GEV",
+    "qty": 2.0,
+    "avg": 1008.67,
+    "price": 988.7,
+    "pnl": -40.0,
+    "pnl_pct": -2.0,
+    "reason": "策略退出(bollinger_oversold)",
+    "dev": 0.0466
+   },
+   {
+    "symbol": "ORCL",
+    "qty": 5.0,
+    "avg": 149.6,
+    "price": 142.3,
+    "pnl": -36.0,
+    "pnl_pct": -4.9,
+    "reason": "策略退出(volume_breakout)",
+    "dev": 0.1406
+   },
+   {
+    "symbol": "SOFI",
+    "qty": 70.0,
+    "avg": 15.93,
+    "price": 15.77,
+    "pnl": -11.0,
+    "pnl_pct": -1.0,
+    "reason": "策略退出(volume_breakout)",
+    "dev": 0.1311
+   },
+   {
+    "symbol": "ONDS",
+    "qty": 55.0,
+    "avg": 7.78,
+    "price": 7.24,
+    "pnl": -30.0,
+    "pnl_pct": -6.9,
+    "reason": "策略退出(volume_breakout)",
+    "dev": 0.0647
+   },
+   {
+    "symbol": "PLAB",
+    "qty": 25.0,
+    "avg": 30.57,
+    "price": 31.49,
+    "pnl": 23.0,
+    "pnl_pct": 3.0,
+    "reason": "策略退出(bollinger_oversold)",
+    "dev": 0.0677
+   },
+   {
+    "symbol": "NU",
+    "qty": 30.0,
+    "avg": 13.63,
+    "price": 13.43,
+    "pnl": -6.0,
+    "pnl_pct": -1.5,
+    "reason": "策略退出(volume_breakout)",
+    "dev": 0.1259
+   },
+   {
+    "symbol": "SMCI",
+    "qty": 20.0,
+    "avg": 32.55,
+    "price": 43.69,
+    "pnl": 223.0,
+    "pnl_pct": 34.2,
+    "reason": "策略退出(bollinger_oversold)",
+    "dev": 0.0877
+   },
+   {
+    "symbol": "EWY",
+    "qty": 6.0,
+    "avg": 154.07,
+    "price": 191.88,
+    "pnl": 221.0,
+    "pnl_pct": 24.0,
+    "reason": "止盈(3R)",
+    "dev": 0.0048
+   },
+   {
+    "symbol": "PLTR",
+    "qty": 7.0,
+    "avg": 135.53,
+    "price": 188.75,
+    "pnl": 263.0,
+    "pnl_pct": 27.8,
+    "reason": "止盈(3R)",
+    "dev": 0.09
+   },
+   {
+    "symbol": "AMD",
+    "qty": 4.0,
+    "avg": 522.02,
+    "price": 633.91,
+    "pnl": 448.0,
+    "pnl_pct": 21.4,
+    "reason": "策略退出(rsi_meanrev)",
+    "dev": 0.001
+   }
+  ],
+  "buys": [],
+  "skipped": [
+   {
+    "symbol": "RVI",
+    "reason": "新基金上市不足1个月，暂无技术信号"
+   }
+  ],
+  "acct": 20697.0,
+  "cash": 768.51
+ },
+ "ticker_news": [
+  {
+   "symbol": "ACN",
+   "items": [
+    {
+     "headline": "Accenture: Canary In A Coal Mine",
+     "source": "SeekingAlpha",
+     "datetime": 1791187200,
+     "url": "https://finnhub.io/api/news?id=889c9a9e9d307aab9b488a2a6a969fe35152c7cc8216b20b35693deb2aeb6fff",
+     "headline_zh": "埃森哲：煤矿里的金丝雀"
+    },
+    {
+     "headline": "ExxonMobil, Visa Among 16 Dividend Growth Companies To Announce Annual Dividend Increases In October",
+     "source": "SeekingAlpha",
+     "datetime": 1791155223,
+     "url": "https://finnhub.io/api/news?id=bb63323a7ff767b443ec70481139d1628ba1c405dbff07dda9e5ee287fdde519",
+     "headline_zh": "埃克森美孚、Visa 等 16 家股息增长公司宣布 10 月份增加年度股息"
+    },
+    {
+     "headline": "Is Accenture (ACN) Really Priced Like Its Best Days Are Over?",
+     "source": "Yahoo",
+     "datetime": 1791135217,
+     "url": "https://finnhub.io/api/news?id=cbd52bb08c17d793d6390cc43478cc43a6404e5fff99334dd413f1ee83bcfc55",
+     "headline_zh": "埃森哲（ACN）的定价真的就像它最好的日子已经过去一样吗？"
+    }
+   ]
+  },
+  {
+   "symbol": "P",
+   "items": [
+    {
+     "headline": "September's Leaders And Laggards",
+     "source": "SeekingAlpha",
+     "datetime": 1790987400,
+     "url": "https://finnhub.io/api/news?id=ad55939cdb4eaa81677d2b0c9d6df027c03f898b180fb8c90f7a228a85731309",
+     "headline_zh": "九月的领先者和落后者"
+    },
+    {
+     "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
+     "source": "ChartMill",
+     "datetime": 1790967901,
+     "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890",
+     "headline_zh": "请随时了解周五标准普尔 500 指数中涨幅最大的股票的信息。"
+    },
+    {
+     "headline": "Everpure Consensus Price Target Raised 11.24% to $146.34",
+     "source": "Fintel",
+     "datetime": 1790918224,
+     "url": "https://finnhub.io/api/news?id=bcd80fd06c4ba7fae8091e65c6143761c25014fdec3a2c66b3606b6d6ec47977",
+     "headline_zh": "爱惠纯共识目标价上调 11.24% 至 146.34 美元"
+    }
+   ]
+  },
+  {
+   "symbol": "SNPS",
+   "items": [
+    {
+     "headline": "Synopsys (SNPS) Has a Strong Design Business. Is Its Growth Worth the Premium?",
+     "source": "Yahoo",
+     "datetime": 1791078841,
+     "url": "https://finnhub.io/api/news?id=df4bb30f732d4da622590f58ff1858c60676ae8b81488ba5f0c3ea8f3c3655e6",
+     "headline_zh": "Synopsys (SNPS) 拥有强大的设计业务。它的增长值得溢价吗？"
+    },
+    {
+     "headline": "Synopsys Is the Nasdaq 100’s Top Stock Today. The Target Says It’s Not Done",
+     "source": "Yahoo",
+     "datetime": 1790964052,
+     "url": "https://finnhub.io/api/news?id=00d458189dfee1ad8d236639740ffa19962e7eae4398dd9b656a6a22bf813e31",
+     "headline_zh": "Synopsys 是当今纳斯达克 100 指数中的顶级股票。目标说尚未完成"
+    },
+    {
+     "headline": "2026 BayAreaCISO ORBIE Awards Recognize Bay Area’s Top Security Executives",
+     "source": "Yahoo",
+     "datetime": 1790959740,
+     "url": "https://finnhub.io/api/news?id=bbe6798705edf8521daff1cc8b33e3d323236fa6c01e86d192a84f98dfdf976d",
+     "headline_zh": "2026 年 BayAreaCISO ORBIE 奖表彰湾区的顶级安全管理人员"
+    }
+   ]
+  },
+  {
+   "symbol": "TER",
+   "items": [
+    {
+     "headline": "US Stock Market Today: S&P 500 Futures Climb On Cooling Jobs And Firm Factory Data",
+     "source": "Yahoo",
+     "datetime": 1791187630,
+     "url": "https://finnhub.io/api/news?id=667c3608a67a4a3ff5733b4cf38ba93f3a8c23915e0f88377f9149cc9e5cdce7",
+     "headline_zh": "今日美国股市：标普 500 指数期货因就业降温和工厂数据坚挺而上涨"
+    },
+    {
+     "headline": "Semiconductors Winners And Losers At The Start Of Q4 2026",
+     "source": "SeekingAlpha",
+     "datetime": 1791173679,
+     "url": "https://finnhub.io/api/news?id=d7cdd47e7e15c5f64e4ec24ab20183fcacc9ffcbcbfefe646574e1ce084abd2f",
+     "headline_zh": "2026 年第四季度初半导体行业的赢家和输家"
+    },
+    {
+     "headline": "Teradyne Is Up Big, But The Real Growth May Still Be Ahead",
+     "source": "SeekingAlpha",
+     "datetime": 1791069060,
+     "url": "https://finnhub.io/api/news?id=30259b4d4ea2ed4d1d8c853db858d0ea033cfc536272e10769b28e7f8b6c8fea",
+     "headline_zh": "泰瑞达发展势头强劲，但真正的增长可能仍在前方"
+    }
+   ]
+  },
+  {
+   "symbol": "HPE",
+   "items": [
+    {
+     "headline": "A Soft Jobs Report Takes the Heat Off Rates, and Nvidia Closes In on $6 Trillion",
+     "source": "ChartMill",
+     "datetime": 1791185268,
+     "url": "https://finnhub.io/api/news?id=7d9e5e396c8898c7050f63983a8921f960929cb810ab5c0bf558e790bc1a21bc",
+     "headline_zh": "疲软的就业报告让利率下降，Nvidia 接近 6 万亿美元"
+    },
+    {
+     "headline": "Why Did NVDA, HPE, CRWD Stocks Rise To 52-Week Highs Last Week?",
+     "source": "Yahoo",
+     "datetime": 1791172073,
+     "url": "https://finnhub.io/api/news?id=ee67bd0e06935fbc2c06e0e33f19793f152ace50112b65e1ca53b37d6cb83335",
+     "headline_zh": "Why Did NVDA, HPE, CRWD Stocks Rise To 52-Week Highs Last Week?"
+    },
+    {
+     "headline": "How HPE Stock Gained 22.3% in September",
+     "source": "Yahoo",
+     "datetime": 1791166981,
+     "url": "https://finnhub.io/api/news?id=f3b7d416dbcadefd6060d9d4f3e75250109ba666ecf180cc2fae1a58cfebda24",
+     "headline_zh": "How HPE Stock Gained 22.3% in September"
+    }
+   ]
+  },
+  {
+   "symbol": "NTAP",
+   "items": [
+    {
+     "headline": "Super Micro Computer (SMCI) Climbed, What Is Behind The Fresh Attention?",
+     "source": "Yahoo",
+     "datetime": 1791159642,
+     "url": "https://finnhub.io/api/news?id=a187dbdf30bc5f5ca9a77d2e6c4516f24cecdb7a9626c81c45d2463ac49da9b9",
+     "headline_zh": "Super Micro Computer (SMCI) Climbed, What Is Behind The Fresh Attention?"
+    },
+    {
+     "headline": "NetApp: After Doubling This Year, There Are Further Gains Ahead",
+     "source": "SeekingAlpha",
+     "datetime": 1791148867,
+     "url": "https://finnhub.io/api/news?id=6ffee172dad34436bf990d21f6d5a45982a18e981de0d5a0a76a1caa737708d2",
+     "headline_zh": "NetApp: After Doubling This Year, There Are Further Gains Ahead"
+    },
+    {
+     "headline": "3 AI Winners, 3 Very Different Paths to Higher Margins",
+     "source": "Yahoo",
+     "datetime": 1791034800,
+     "url": "https://finnhub.io/api/news?id=6f2f690efc6105a654efedae254a7856a2d520b6b8acf3a1ecce66230853d891",
+     "headline_zh": "3 AI Winners, 3 Very Different Paths to Higher Margins"
+    }
+   ]
+  },
+  {
+   "symbol": "RVTY",
+   "items": [
+    {
+     "headline": "Revvity (RVTY) Upgraded to Buy: What Does It Mean for the Stock?",
+     "source": "Yahoo",
+     "datetime": 1790953202,
+     "url": "https://finnhub.io/api/news?id=1354c9a3ac86acca82d61b1988ec9d31e1f0743e2810cf95605e1c46072883de",
+     "headline_zh": "Revvity (RVTY) 升级至买入：这对股票意味着什么？"
+    },
+    {
+     "headline": "Revvity to Hold Earnings Call on November 3, 2026",
+     "source": "Yahoo",
+     "datetime": 1790942400,
+     "url": "https://finnhub.io/api/news?id=20f528af1e1b120c026025dfda2cdf1c613fc223627e530195c33ed1dffc0e4d",
+     "headline_zh": "Revvity 将于 2026 年 11 月 3 日召开收益电话会议"
+    },
+    {
+     "headline": "Let's take a look at the S&P500 stocks that are experiencing unusual volume in today's session.",
+     "source": "ChartMill",
+     "datetime": 1790787900,
+     "url": "https://finnhub.io/api/news?id=8796fb4f75396d1828b23a3b1b8c40d67fff4a675fd7b4ca8feac4460090c598",
+     "headline_zh": "Let's take a look at the S&P500 stocks that are experiencing unusual volume in today's session."
+    }
+   ]
+  },
+  {
+   "symbol": "KEYS",
+   "items": [
+    {
+     "headline": "Tutor Perini, Kennametal, CSW, United Rentals, and Keysight Stocks Trade Up, What You Need To Know",
+     "source": "Yahoo",
+     "datetime": 1790988363,
+     "url": "https://finnhub.io/api/news?id=6ec51541e9e60cb57bfd93895df9a2242473bf064a56e0c1b16bb2b8df0f02bf",
+     "headline_zh": "Tutor Perini、Kennametal、CSW、United Rental 和 Keysight 股票上涨，您需要了解什么"
+    },
+    {
+     "headline": "Synopsys Is the Nasdaq 100’s Top Stock Today. The Target Says It’s Not Done",
+     "source": "Yahoo",
+     "datetime": 1790964052,
+     "url": "https://finnhub.io/api/news?id=00d458189dfee1ad8d236639740ffa19962e7eae4398dd9b656a6a22bf813e31",
+     "headline_zh": "Synopsys 是当今纳斯达克 100 指数中的顶级股票。目标说尚未完成"
+    },
+    {
+     "headline": "This AI Stock With Future 6G Opportunity Clears Buy Point Amid 90% Run",
+     "source": "Yahoo",
+     "datetime": 1790960740,
+     "url": "https://finnhub.io/api/news?id=2f4c7c6e774d3104507f354c3cce97dbb4ec03344e885e0a200148924f2d8b02",
+     "headline_zh": "这只具有未来 6G 机会的人工智能股票在 90% 的运行中清除了买入点"
+    }
+   ]
+  },
+  {
+   "symbol": "ZBRA",
+   "items": [
+    {
+     "headline": "If You Invested $100 In Zebra Technologies Stock 20 Years Ago, You Would Have This Much Today",
+     "source": "Benzinga",
+     "datetime": 1790878534,
+     "url": "https://finnhub.io/api/news?id=ee3a038841d684472210c0f538b269b3fb7485320a6189ca49997c3d17da3d68",
+     "headline_zh": "如果您 20 年前投资 100 美元购买 Zebra Technologies 股票，今天您将拥有这么多"
+    },
+    {
+     "headline": "1 Unpopular Stock That Deserves a Second Chance and 2 We Question",
+     "source": "Yahoo",
+     "datetime": 1790770393,
+     "url": "https://finnhub.io/api/news?id=82a859fe20a67e24be95707028038d40f2aada7aa03243a110e84123c139684a",
+     "headline_zh": "1 不受欢迎的股票值得第二次机会，2 我们质疑"
+    }
+   ]
+  },
+  {
+   "symbol": "CRL",
+   "items": [
+    {
+     "headline": "Charles River Laboratories (CRL) Stock Fair Value Rises After Analyst Day Target Increases",
+     "source": "Yahoo",
+     "datetime": 1790967988,
+     "url": "https://finnhub.io/api/news?id=73d6aea502d0d31bd3b4f84722916a1926fcbb56cee537a66e1d38055c72cb31",
+     "headline_zh": "Charles River Laboratories (CRL) 股票公允价值在分析师日目标提高后上涨"
+    },
+    {
+     "headline": "Charles River Laboratories International Consensus Price Target Increased by 11.46% to $307.39",
+     "source": "Fintel",
+     "datetime": 1790925229,
+     "url": "https://finnhub.io/api/news?id=4004dabfc4e71581127dd887539a0ecf3abbbdbfca0c74f5d1873ab9ad91f51b",
+     "headline_zh": "Charles River Laboratories International 一致价格目标上涨 11.46% 至 307.39 美元"
+    },
+    {
+     "headline": "Animal Model - Global Strategic Business Report:  Market Size to Surge to $3.6 Billion by 2032 as CRISPR Disrupts R&D - Benchmark Charles River, Biocytogen, Crown Bioscience, Cyagen and The Jackson Laboratory",
+     "source": "Yahoo",
+     "datetime": 1790774880,
+     "url": "https://finnhub.io/api/news?id=4f000e219b76905d0e4602a2357c480f40a8a0d43c3dffe4cc108d40fa5b5d11",
+     "headline_zh": "动物模型 - 全球战略商业报告：随着 CRISPR 扰乱研发，市场规模到 2032 年将激增至 36 亿美元 - Benchmark Charles River、Biocytogen、Crown Bioscience、Cyagen 和 The Jackson Laboratory"
+    }
+   ]
+  },
+  {
+   "symbol": "RKLB",
+   "items": [
+    {
+     "headline": "SpaceX (SPCX) vs Rocket Lab (RKLB): Which is a Better Stock to Buy?",
+     "source": "Yahoo",
+     "datetime": 1791151252,
+     "url": "https://finnhub.io/api/news?id=e551b1c2e81b814831b2c3b7b8bfd5c983c17e722aba0fee75e2fa95672d1b33",
+     "headline_zh": "SpaceX (SPCX) vs Rocket Lab (RKLB): Which is a Better Stock to Buy?"
+    },
+    {
+     "headline": "SpaceX Isn't Rocket Lab's Biggest Threat Now -- Blue Origin Is",
+     "source": "Yahoo",
+     "datetime": 1791113220,
+     "url": "https://finnhub.io/api/news?id=9d6ba1544f82ece5a603b7d1e662bf36bd65bbef7bf071be28f9d248fb19ed8a",
+     "headline_zh": "SpaceX Isn't Rocket Lab's Biggest Threat Now -- Blue Origin Is"
+    },
+    {
+     "headline": "How Investors May Respond To Rocket Lab (RKLB) Winning Synspective’s Record 20-Launch Electron Contract",
+     "source": "Yahoo",
+     "datetime": 1791087267,
+     "url": "https://finnhub.io/api/news?id=72f747edafbf58645b2503735362ef6018bbff66d759ad6cf4cda8fc00b4682b",
+     "headline_zh": "How Investors May Respond To Rocket Lab (RKLB) Winning Synspective’s Record 20-Launch Electron Contract"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLA",
+   "items": [
+    {
+     "headline": "SpaceX Is Now a Super Intelligence Company. Say Hello to SpaceXSI.",
+     "source": "Yahoo",
+     "datetime": 1791198120,
+     "url": "https://finnhub.io/api/news?id=bb65f9082535fa5f5b6e01c9bfc9647ecda49a81e4ad9c37b1f1e2999fdde628",
+     "headline_zh": "SpaceX Is Now a Super Intelligence Company. Say Hello to SpaceXSI."
+    },
+    {
+     "headline": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
+     "source": "Yahoo",
+     "datetime": 1791197400,
+     "url": "https://finnhub.io/api/news?id=b0cf215ea487392e67e586be62096cb6b8d47e93ddaf02471c8e9a3ec0ce5353",
+     "headline_zh": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%."
+    },
+    {
+     "headline": "Elon Musk Says Cutting Optimus Memory Was Tesla's 'Only Way' to Scale, As Micron Says Humanoid Robots Need 200GB+ of Memory Each",
+     "source": "Yahoo",
+     "datetime": 1791197121,
+     "url": "https://finnhub.io/api/news?id=89c11413b2d470d9e44b9dbd80590748d562401ba5d1eadea03610d17523f641",
+     "headline_zh": "Elon Musk Says Cutting Optimus Memory Was Tesla's 'Only Way' to Scale, As Micron Says Humanoid Robots Need 200GB+ of Memory Each"
+    }
+   ]
+  },
+  {
+   "symbol": "NOK",
+   "items": [
+    {
+     "headline": "Better Telecom Stock: Nokia vs. Verizon",
+     "source": "Yahoo",
+     "datetime": 1791088193,
+     "url": "https://finnhub.io/api/news?id=5bf0b1ca847bbcb36fe8877585627932c6e84fd24e63267b0528f0765327b499",
+     "headline_zh": "Better Telecom Stock: Nokia vs. Verizon"
+    },
+    {
+     "headline": "Nokia (NOK) Has Doubled in a Year. Is the Turnaround Real or Just a Rerating?",
+     "source": "Yahoo",
+     "datetime": 1791084349,
+     "url": "https://finnhub.io/api/news?id=a3bf9889f6e8291ecd35b0184ee1ddc03bfe3cea63b4e3fa7d1b74dd3940d82a",
+     "headline_zh": "Nokia (NOK) Has Doubled in a Year. Is the Turnaround Real or Just a Rerating?"
+    },
+    {
+     "headline": "Roblox (RBLX) Has Lost Two Thirds of Its Value. Is the User Growth Still Real?",
+     "source": "Yahoo",
+     "datetime": 1791081189,
+     "url": "https://finnhub.io/api/news?id=44ee472661ec67589f713737dfddb96b4b45a1b887dbf77e96e85b130d6896a6",
+     "headline_zh": "Roblox (RBLX) Has Lost Two Thirds of Its Value. Is the User Growth Still Real?"
+    }
+   ]
+  },
+  {
+   "symbol": "GOOG",
+   "items": [
+    {
+     "headline": "Investment Wisdom Always Says Buy Assets, So Don’t Ignore That Wisdom As It Relates To This Hyperscaler",
+     "source": "Yahoo",
+     "datetime": 1791200718,
+     "url": "https://finnhub.io/api/news?id=78200ab68f9046030d509d2eef4ae192ac62c691e73743fe8290b9d5c0803ed5",
+     "headline_zh": "Investment Wisdom Always Says Buy Assets, So Don’t Ignore That Wisdom As It Relates To This Hyperscaler"
+    },
+    {
+     "headline": "This multi-trillion stock is \"cheap and getting cheaper\": Morgan Stanley",
+     "source": "Yahoo",
+     "datetime": 1791199508,
+     "url": "https://finnhub.io/api/news?id=768f00f2d7ce5ecf4716ab7b55b609d323406e8acd46d77c192714bfe78b70b7",
+     "headline_zh": "This multi-trillion stock is \"cheap and getting cheaper\": Morgan Stanley"
+    },
+    {
+     "headline": "SpaceX Is Now a Super Intelligence Company. Say Hello to SpaceXSI.",
+     "source": "Yahoo",
+     "datetime": 1791198120,
+     "url": "https://finnhub.io/api/news?id=bb65f9082535fa5f5b6e01c9bfc9647ecda49a81e4ad9c37b1f1e2999fdde628",
+     "headline_zh": "SpaceX Is Now a Super Intelligence Company. Say Hello to SpaceXSI."
+    }
+   ]
+  },
+  {
+   "symbol": "CRCL",
+   "items": [
+    {
+     "headline": "The Settlement Layer Is Going On-Chain",
+     "source": "Yahoo",
+     "datetime": 1791093576,
+     "url": "https://finnhub.io/api/news?id=c872e5d673cb30750b62a73d239c83f79c4c6b3b0cb0cd8608d23e655d6fe001",
+     "headline_zh": "The Settlement Layer Is Going On-Chain"
+    },
+    {
+     "headline": "Weekly Wrap: Crypto Rallies To Start ‘Uptober’",
+     "source": "Yahoo",
+     "datetime": 1790980680,
+     "url": "https://finnhub.io/api/news?id=7a9b175a06c2391dc0765f8f1132d9ce57a933ef1728aade821673273de172de",
+     "headline_zh": "Weekly Wrap: Crypto Rallies To Start ‘Uptober’"
+    },
+    {
+     "headline": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+     "source": "Yahoo",
+     "datetime": 1790970363,
+     "url": "https://finnhub.io/api/news?id=37a834e3e5c86065cf439cff7ccfd5df6df6f5404c8be6b78f8aec91a22b49c5",
+     "headline_zh": "Circle 推迟 MiCA 的稳定币银行存款指令"
+    }
+   ]
+  },
+  {
+   "symbol": "XLU",
+   "items": [
+    {
+     "headline": "One Trade, Two Markets, One Hidden Correction",
+     "source": "SeekingAlpha",
+     "datetime": 1791013566,
+     "url": "https://finnhub.io/api/news?id=5e5b58fa2d27542a5478a9f3584366215cfd94d49a83869588b9e376527beac2",
+     "headline_zh": "One Trade, Two Markets, One Hidden Correction"
+    },
+    {
+     "headline": "The Next Big Move In Interest Rates: How I'm Buying The Dividend Sell-Off",
+     "source": "SeekingAlpha",
+     "datetime": 1791011100,
+     "url": "https://finnhub.io/api/news?id=33f570c818116937830f826c28d3ae9440af78582be2b2ccd489b8ea75b383ef",
+     "headline_zh": "The Next Big Move In Interest Rates: How I'm Buying The Dividend Sell-Off"
+    },
+    {
+     "headline": "Utility Stocks Are the Most Oversold Since 2023",
+     "source": "Yahoo",
+     "datetime": 1790970305,
+     "url": "https://finnhub.io/api/news?id=3d561fc556974217bd250c99ace42f386c6f62af5feef82d2fbcfd4fa6eb0d70",
+     "headline_zh": "公用事业股自 2023 年以来超卖程度最高"
+    }
+   ]
+  },
+  {
+   "symbol": "GEV",
+   "items": [
+    {
+     "headline": "NuScale vs. Oklo vs. GE Vernova: Ranking 3 Nuclear Stocks By Backlog, Not Hype.",
+     "source": "Yahoo",
+     "datetime": 1791059100,
+     "url": "https://finnhub.io/api/news?id=2b5f6fe7638bd3f1f5c4c82c20b7af15b0618e346b24f64d361a9590a8e4f2c8",
+     "headline_zh": "NuScale vs. Oklo vs. GE Vernova: Ranking 3 Nuclear Stocks By Backlog, Not Hype."
+    },
+    {
+     "headline": "3 Power Grid Stocks With Revenue Growth Up To 34%",
+     "source": "Yahoo",
+     "datetime": 1790978866,
+     "url": "https://finnhub.io/api/news?id=7f64eb31a2349f9d16ddbb2f12eb16f3f6a8ba74376f6a244e90eb43e20c4f80",
+     "headline_zh": "3只营收增速高达34%的电网股"
+    },
+    {
+     "headline": "GE Vernova’s Consolidation Looks Promising For One Simple Reason",
+     "source": "Yahoo",
+     "datetime": 1790955912,
+     "url": "https://finnhub.io/api/news?id=3d24a65bd26755529fa01817a4b84235371c91f3e429d4302310579c69fabaae",
+     "headline_zh": "GE Vernova 的整合看起来很有希望，原因很简单"
+    }
+   ]
+  },
+  {
+   "symbol": "ORCL",
+   "items": [
+    {
+     "headline": "Oracle at $140: Buying Negative FCF Never Looked So Good",
+     "source": "Yahoo",
+     "datetime": 1791198955,
+     "url": "https://finnhub.io/api/news?id=ce0fd4d861b34d935eb150cf7e0bfeac80c10fc167e838ee80b66c3dce35e4e9",
+     "headline_zh": "Oracle at $140: Buying Negative FCF Never Looked So Good"
+    },
+    {
+     "headline": "Oracle (ORCL) Expands AI And Health Push, Is It Still Below Fair Value?",
+     "source": "Yahoo",
+     "datetime": 1791180633,
+     "url": "https://finnhub.io/api/news?id=6a7d324ba620c11012c83d62866610be4a4d8f8003b3482fd19228b4844b0812",
+     "headline_zh": "Oracle (ORCL) Expands AI And Health Push, Is It Still Below Fair Value?"
+    },
+    {
+     "headline": "Oracle Announces $10 Million Partnership with the Nashville Symphony",
+     "source": "Yahoo",
+     "datetime": 1791151200,
+     "url": "https://finnhub.io/api/news?id=87e70bb6d9e4ec6a50af0bf911613075ac850e606b63cd96bd243d0ed08363e2",
+     "headline_zh": "Oracle Announces $10 Million Partnership with the Nashville Symphony"
+    }
+   ]
+  },
+  {
+   "symbol": "SOFI",
+   "items": [
+    {
+     "headline": "Why SoFi Stock Dropped 12% in September",
+     "source": "Yahoo",
+     "datetime": 1791195841,
+     "url": "https://finnhub.io/api/news?id=99c8f84997d8cec334e34c92e412edd19b4325eed6d84a77aec352f8f06fa4f6",
+     "headline_zh": "Why SoFi Stock Dropped 12% in September"
+    },
+    {
+     "headline": "SOFI Stock Is Down More Than 40% In 2026, But This Analyst Sees Attractive Growth Opportunity In Loan Platform Business",
+     "source": "Yahoo",
+     "datetime": 1791162588,
+     "url": "https://finnhub.io/api/news?id=f74b007bd5e47255a49edb9310f7eba3a0369410affc7c93fdb5ae91a5e61183",
+     "headline_zh": "SOFI Stock Is Down More Than 40% In 2026, But This Analyst Sees Attractive Growth Opportunity In Loan Platform Business"
+    },
+    {
+     "headline": "SoFi’s US$25 Billion Card Portfolio Shift To Bank-Issued Stablecoin Might Change The Case For Investing In SoFi Technologies (SOFI)",
+     "source": "Yahoo",
+     "datetime": 1791079730,
+     "url": "https://finnhub.io/api/news?id=1eed8d883aadce9d9a710e9a50a66d931429a9d8cf03f55a4745fcd50877271f",
+     "headline_zh": "SoFi’s US$25 Billion Card Portfolio Shift To Bank-Issued Stablecoin Might Change The Case For Investing In SoFi Technologies (SOFI)"
+    }
+   ]
+  },
+  {
+   "symbol": "ONDS",
+   "items": [
+    {
+     "headline": "Stocktwits Defense Watch: BA, RTX, LHX Score Major Deals As ONDS Expands Counter-Drone Push",
+     "source": "Yahoo",
+     "datetime": 1790990769,
+     "url": "https://finnhub.io/api/news?id=6e8cd37d9d0f83f1719cc0dffbcdf32aa18da2844027d38019e6383f13f419bd",
+     "headline_zh": "Stocktwits Defense Watch: BA, RTX, LHX Score Major Deals As ONDS Expands Counter-Drone Push"
+    },
+    {
+     "headline": "Which Drone Stock Is Dominating in 2026: Red Cat, Ondas, or AeroVironment?",
+     "source": "Yahoo",
+     "datetime": 1790965095,
+     "url": "https://finnhub.io/api/news?id=b8c9bb36e47e6019a2cd6ae99f08b6a7b8418026765cfaf3713465db3ce0aeaa",
+     "headline_zh": "哪种无人机股票将在 2026 年占据主导地位：Red Cat、Ondas 还是 AeroVironment？"
+    },
+    {
+     "headline": "Motorola Boosts Counter-Drone Security Footprint With D-Fend Buyout",
+     "source": "Yahoo",
+     "datetime": 1790946000,
+     "url": "https://finnhub.io/api/news?id=443fad8eef47ddbfee799b32e4847aada63e05eea5e0bc7766e544e1c809a01d",
+     "headline_zh": "摩托罗拉通过收购 D-Fend 扩大反无人机安全足迹"
+    }
+   ]
+  },
+  {
+   "symbol": "PLAB",
+   "items": [
+    {
+     "headline": "Photronics to Participate in 18th Annual CEO Investor Summit",
+     "source": "Yahoo",
+     "datetime": 1790798400,
+     "url": "https://finnhub.io/api/news?id=e88973fba7186c860641c424209be2deba384d65114ae5350bcdf6cec2b0fc4e",
+     "headline_zh": "Phototronics 将参加第 18 届年度首席执行官投资者峰会"
+    }
+   ]
+  },
+  {
+   "symbol": "NU",
+   "items": [
+    {
+     "headline": "Why Is NU Stock Surging Nearly 9% In Overnight Trading?",
+     "source": "Yahoo",
+     "datetime": 1791165762,
+     "url": "https://finnhub.io/api/news?id=c2f28e0fb89f5a871b80f8687994ca5ec7397a102630e63f6fde5832094a5f85",
+     "headline_zh": "Why Is NU Stock Surging Nearly 9% In Overnight Trading?"
+    },
+    {
+     "headline": "Goldman Sachs Predicts Upside in 5 Stocks",
+     "source": "Yahoo",
+     "datetime": 1791086968,
+     "url": "https://finnhub.io/api/news?id=cae652140bcf51477c92087755af5cca95f1fdef1aedee62169b4975b5432d02",
+     "headline_zh": "Goldman Sachs Predicts Upside in 5 Stocks"
+    },
+    {
+     "headline": "Nu Holdings Ltd. (NU) Outpaces Stock Market Gains: What You Should Know",
+     "source": "Yahoo",
+     "datetime": 1790973902,
+     "url": "https://finnhub.io/api/news?id=b978e90bd7257b7d50205e9de9e4975af471788d4fe4cf490ff3c60ac58db3b3",
+     "headline_zh": "Nu Holdings Ltd. (NU) 的涨幅超过股市：您应该知道什么"
+    }
+   ]
+  },
+  {
+   "symbol": "SMCI",
+   "items": [
+    {
+     "headline": "Dow, S&P 500, Nasdaq Futures Rise After Soft Jobs Report As Markets Await Fed Minutes: IBRX, SMCI, VST, SOFI Stocks In Focus",
+     "source": "Yahoo",
+     "datetime": 1791170231,
+     "url": "https://finnhub.io/api/news?id=ffef3d41bfd042ac76760698414806aa2cf465e3c401e11855644aede9d62f9f",
+     "headline_zh": "Dow, S&P 500, Nasdaq Futures Rise After Soft Jobs Report As Markets Await Fed Minutes: IBRX, SMCI, VST, SOFI Stocks In Focus"
+    },
+    {
+     "headline": "Super Micro Computer (SMCI) Climbed, What Is Behind The Fresh Attention?",
+     "source": "Yahoo",
+     "datetime": 1791159642,
+     "url": "https://finnhub.io/api/news?id=a187dbdf30bc5f5ca9a77d2e6c4516f24cecdb7a9626c81c45d2463ac49da9b9",
+     "headline_zh": "Super Micro Computer (SMCI) Climbed, What Is Behind The Fresh Attention?"
+    },
+    {
+     "headline": "SMCI Stock Is Up 41% This Year. Hold or Take Profits?",
+     "source": "Yahoo",
+     "datetime": 1791107630,
+     "url": "https://finnhub.io/api/news?id=a9ae2bd1c5cc3b0d82a510729a17ea483aeebd0d8e23aab58862beedd0c12235",
+     "headline_zh": "SMCI Stock Is Up 41% This Year. Hold or Take Profits?"
+    }
+   ]
+  },
+  {
+   "symbol": "EWY",
+   "items": [
+    {
+     "headline": "International Markets Are Pulling Ahead Of US Stocks In 2026: These 4 ETFs Have Left SPY, QQQ, DIA In The Dust",
+     "source": "Yahoo",
+     "datetime": 1791176194,
+     "url": "https://finnhub.io/api/news?id=784faf471b789b5964e0a14458c5e914241eb4655c5f427a2aae86f6b1e078b6",
+     "headline_zh": "International Markets Are Pulling Ahead Of US Stocks In 2026: These 4 ETFs Have Left SPY, QQQ, DIA In The Dust"
+    },
+    {
+     "headline": "'Trump Threatens South Korea Over Alaska LNG Project Dispute'- Bloomberg",
+     "source": "Benzinga",
+     "datetime": 1790959691,
+     "url": "https://finnhub.io/api/news?id=411c95d82511814ba4d552606fb98c79c1b5917df002baa02e5dbc355aeaf5eb",
+     "headline_zh": "'Trump Threatens South Korea Over Alaska LNG Project Dispute'- Bloomberg"
+    },
+    {
+     "headline": "South Korea's Industry Ministry Official Says $8.4B Oil Project Mentioned By Trump Not Part Of Agreement With",
+     "source": "Benzinga",
+     "datetime": 1790939110,
+     "url": "https://finnhub.io/api/news?id=738654252c9274c2e5f907c3bf771c83ec2aec8b5ae100b473e14e6a48349d0d",
+     "headline_zh": "South Korea's Industry Ministry Official Says $8.4B Oil Project Mentioned By Trump Not Part Of Agreement With"
+    }
+   ]
+  },
+  {
+   "symbol": "PLTR",
+   "items": [
+    {
+     "headline": "Palantir's 93% Revenue Growth Is Colliding With Michael Burry's Bear Case -- Here's Who Has the Stronger Argument",
+     "source": "Yahoo",
+     "datetime": 1791197700,
+     "url": "https://finnhub.io/api/news?id=dc4ed06f1a67b0b3cbfa1b197e51e476d552600d7333cb93db74dedbfd8e125f",
+     "headline_zh": "Palantir's 93% Revenue Growth Is Colliding With Michael Burry's Bear Case -- Here's Who Has the Stronger Argument"
+    },
+    {
+     "headline": "Peter Thiel Says US AI Demand Is Booming, but Cathie Wood Is Trimming Palantir: Here's How Much Ark Invest Sold",
+     "source": "Yahoo",
+     "datetime": 1791194411,
+     "url": "https://finnhub.io/api/news?id=20fbc485765882ea6bb13da69e8b8b419cce6630fa171802712a3c76b3df6564",
+     "headline_zh": "Peter Thiel Says US AI Demand Is Booming, but Cathie Wood Is Trimming Palantir: Here's How Much Ark Invest Sold"
+    },
+    {
+     "headline": "Palantir (PLTR) Defense Momentum Strengthens the Bullish Case",
+     "source": "Yahoo",
+     "datetime": 1791172539,
+     "url": "https://finnhub.io/api/news?id=fdad6f4d6e8df1a319b70bb05a3be82113ccaacb3380995d38154b84ca8610a2",
+     "headline_zh": "Palantir (PLTR) Defense Momentum Strengthens the Bullish Case"
+    }
+   ]
+  },
+  {
+   "symbol": "AMD",
+   "items": [
+    {
+     "headline": "Cerebras Systems’ Tough 2026 Continues: It’ll Double Soon According to One of The Biggest Global Banks",
+     "source": "Yahoo",
+     "datetime": 1791198928,
+     "url": "https://finnhub.io/api/news?id=5c0e53f6416b1431f8717f0b8028091789996913bbe707d495b77f13a3ba282e",
+     "headline_zh": "Cerebras Systems’ Tough 2026 Continues: It’ll Double Soon According to One of The Biggest Global Banks"
+    },
+    {
+     "headline": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
+     "source": "Yahoo",
+     "datetime": 1791198604,
+     "url": "https://finnhub.io/api/news?id=ba5db4b84f357f2427cf4fb7310ff404f4190b8535f980d7ae72cb90b55d0510",
+     "headline_zh": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses"
+    },
+    {
+     "headline": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
+     "source": "Yahoo",
+     "datetime": 1791197400,
+     "url": "https://finnhub.io/api/news?id=b0cf215ea487392e67e586be62096cb6b8d47e93ddaf02471c8e9a3ec0ce5353",
+     "headline_zh": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%."
+    }
+   ]
+  }
+ ],
+ "portfolio": {
+  "count": 10,
+  "account_size": 100000.0,
+  "cost": 125808.0,
+  "market_value": 126383.0,
+  "unrealized": 575.0,
+  "unrealized_pct": 0.46,
+  "realized": 0,
+  "total_pnl": 575.0,
+  "return_pct": 0.57
+ },
+ "buys": [],
+ "sells": [],
+ "holdings": [
+  {
+   "symbol": "ACN",
+   "entry_date": "2026-10-02",
+   "entry_price": 212.3,
+   "last_close": 198.9,
+   "unreal_pct": -6.31,
+   "shares": 52,
+   "stop": 193.14,
+   "target": 269.78
+  },
+  {
+   "symbol": "P",
+   "entry_date": "2026-10-02",
+   "entry_price": 134.13,
+   "last_close": 140.14,
+   "unreal_pct": 4.48,
+   "shares": 76,
+   "stop": 121.13,
+   "target": 173.13
+  },
+  {
+   "symbol": "SNPS",
+   "entry_date": "2026-10-02",
+   "entry_price": 490.54,
+   "last_close": 489.9,
+   "unreal_pct": -0.13,
+   "shares": 26,
+   "stop": 452.1,
+   "target": 605.86
+  },
+  {
+   "symbol": "TER",
+   "entry_date": "2026-10-02",
+   "entry_price": 415.79,
+   "last_close": 449.04,
+   "unreal_pct": 8.0,
+   "shares": 25,
+   "stop": 377.25,
+   "target": 531.41
+  },
+  {
+   "symbol": "HPE",
+   "entry_date": "2026-10-03",
+   "entry_price": 69.33,
+   "last_close": 69.33,
+   "unreal_pct": 0.0,
+   "shares": 132,
+   "stop": 61.81,
+   "target": 91.89
+  },
+  {
+   "symbol": "NTAP",
+   "entry_date": "2026-10-03",
+   "entry_price": 226.27,
+   "last_close": 226.27,
+   "unreal_pct": 0.0,
+   "shares": 59,
+   "stop": 209.47,
+   "target": 276.67
+  },
+  {
+   "symbol": "RVTY",
+   "entry_date": "2026-10-03",
+   "entry_price": 151.53,
+   "last_close": 151.53,
+   "unreal_pct": -0.0,
+   "shares": 98,
+   "stop": 141.71,
+   "target": 180.99
+  },
+  {
+   "symbol": "KEYS",
+   "entry_date": "2026-10-03",
+   "entry_price": 384.64,
+   "last_close": 384.64,
+   "unreal_pct": 0.0,
+   "shares": 38,
+   "stop": 362.58,
+   "target": 450.82
+  },
+  {
+   "symbol": "ZBRA",
+   "entry_date": "2026-10-03",
+   "entry_price": 375.86,
+   "last_close": 375.86,
+   "unreal_pct": -0.0,
+   "shares": 39,
+   "stop": 354.72,
+   "target": 439.28
+  },
+  {
+   "symbol": "CRL",
+   "entry_date": "2026-10-03",
+   "entry_price": 290.19,
+   "last_close": 290.19,
+   "unreal_pct": 0.0,
+   "shares": 51,
+   "stop": 271.15,
+   "target": 347.31
+  }
+ ]
+}
